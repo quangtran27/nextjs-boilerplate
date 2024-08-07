@@ -1,3 +1,3 @@
-export default function Home() {
-  return <main className='bg-white text-red-500'>Home page</main>
+export default function Page() {
+  return <div>home page</div>
 }
